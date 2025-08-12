@@ -1,0 +1,18 @@
+environments:
+  dev: {}
+  staging: {}
+
+releases:
+  - name: hello-dev
+    namespace: demo
+    chart: ../../charts/hello-app
+    values:
+      - ../../values/dev.yaml
+
+  - name: hello-staging
+    namespace: demo
+    chart: ../../charts/hello-app
+    values:
+      - ../../values/staging.yaml
+
+
