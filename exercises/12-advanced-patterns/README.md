@@ -1,5 +1,7 @@
 ## Exercise 12 — Advanced Patterns
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll extract reusable logic into library charts and use advanced templating.
 
 ### Objectives

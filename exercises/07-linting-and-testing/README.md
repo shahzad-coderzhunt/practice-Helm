@@ -1,5 +1,7 @@
 ## Exercise 07 — Linting and Testing
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll validate charts with linting and add unit tests with a plugin.
 
 ### Objectives

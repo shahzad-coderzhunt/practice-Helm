@@ -1,5 +1,7 @@
 ## Exercise 02 — Templating Fundamentals
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll practice Go templating features and make my chart configurable via values.
 
 ### Objectives

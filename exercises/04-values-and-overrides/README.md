@@ -1,5 +1,7 @@
 ## Exercise 04 — Values and Overrides
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll learn how layered values work and how precedence is applied.
 
 ### Objectives

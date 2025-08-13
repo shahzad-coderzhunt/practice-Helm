@@ -1,5 +1,7 @@
 ## Exercise 10 — Environments and Helmfile
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll manage multiple releases and environments declaratively with Helmfile.
 
 ### Objectives

@@ -1,5 +1,7 @@
 ## Exercise 11 — CI/CD for Charts
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll automate linting and templating in CI. Optionally I’ll publish packaged charts.
 
 ### Objectives

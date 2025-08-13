@@ -2,6 +2,8 @@
 
 # NOTES
 
+[Back to Exercise](./README.md) · [All Exercises](../../README.md#exercises)
+
 - **Helm** is a package manager, and a **chart** is a packaging format that describes a set of related K8s resources[<sup>[1]</sup>](https://helm.sh/docs/topics/charts/#:~:text=Helm%20uses%20a,and%20so%20on.)
 - A Helm **repository** is a hub where charts are stored, such as *Docker Hub* is for *Docker* images[<sup>[2]</sup>](https://artifacthub.io/packages/search?kind=0)
 - Initializing a sample chart repository[<sup>[3]</sup>](https://helm.sh/docs/intro/quickstart/)

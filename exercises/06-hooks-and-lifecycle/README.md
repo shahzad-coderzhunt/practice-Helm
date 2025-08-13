@@ -1,5 +1,7 @@
 ## Exercise 06 — Hooks and Lifecycle
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll add lifecycle hooks to run setup tasks during install or upgrade.
 
 ### Objectives

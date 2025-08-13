@@ -1,5 +1,7 @@
 ## Exercise 05 — Dependencies and Umbrella Charts
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll add chart dependencies and practice the umbrella pattern.
 
 ### Objectives

@@ -1,5 +1,7 @@
 ## Exercise 03 — Helpers and Partials
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll DRY up templates using `_helpers.tpl` for names, labels, and shared snippets.
 
 ### Objectives

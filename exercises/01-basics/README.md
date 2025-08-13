@@ -1,5 +1,7 @@
 ## Exercise 01 — Helm Basics
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll set up my first Helm chart and practice the core commands: `install`, `upgrade`, `rollback`, and `uninstall`.
 
 ### Objectives

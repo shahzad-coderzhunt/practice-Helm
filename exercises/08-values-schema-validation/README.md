@@ -1,5 +1,7 @@
 ## Exercise 08 — Values Schema Validation
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll enforce input validation using `values.schema.json`.
 
 ### Objectives

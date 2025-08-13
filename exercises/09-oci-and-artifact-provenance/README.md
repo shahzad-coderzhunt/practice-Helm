@@ -1,5 +1,7 @@
 ## Exercise 09 — OCI and Artifact Provenance
 
+[Notes](./NOTES.md) · [All Exercises](../../README.md#exercises)
+
 I’ll package my chart, push it to an OCI registry, and pull it for install.
 
 ### Objectives
