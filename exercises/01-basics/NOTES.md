@@ -166,6 +166,19 @@
   helm show values bitnami/wordpress
   ```
 
+## Helm Chart folder structure
+
+- `.helmignore` contains file names to be ignored by Helm when installing, or package any chart.
+
+> [!NOTE]
+> `helm package CHART` will create a `.tgz` file containing all the files excluding the ones mentioned in `.helmignore`.
+
+- `Chart.lock` ontains the resolved versions of chart dependencies and ensures consistent builds when creating or deploying a release
+
+> [!NOTE]
+> `helm dependency build` downloads the exact chart versions preventing version drift and unexpected updates.
+> `helm dependency update` rebuilds the Chart.lock updating the dependencies.
+
 ## References
 
 1. [Helm Charts Documentation](https://helm.sh/docs/topics/charts/)
